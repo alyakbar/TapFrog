@@ -1,6 +1,6 @@
 # Frog Game
 
-![Frog Game](frog game.png)
+![Frog Game](image/frog game.png)
 
 ## Description
 This is a simple frog game where you can click on the frog to destroy it. The objective is to click on as many frogs as possible within a given time limit.
